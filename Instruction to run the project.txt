@@ -1,0 +1,17 @@
+1. Name Of the working project directory is "naukri".
+2. Name of the spider under spider directory to crawl the webpage is "naukrispider".
+PATH==="C:\Users\SHUBHAM\naukri\naukri\spiders\naukrispider.py"
+3. The Files that are changed in naukri project folder are as follows with their path:
+
+a)C:\Users\SHUBHAM\naukri\naukri\items.py
+b)C:\Users\SHUBHAM\naukri\naukri\settings.py
+c)C:\Users\SHUBHAM\naukri\naukri\pipelines.py
+
+4. The name of the python program to insert data into the database is database_python.py in the same naukri folder.
+PATH==C:\Users\SHUBHAM\naukri\database_python.py
+
+5. The csv file is named as "naukri_data.csv" into same folder.
+PATH==C:\Users\SHUBHAM\naukri\naukri_data.csv
+
+6. The SQL query used to create database and the tables used in the project are written into the file "naukri_sql_file".
+PATH==C:\Users\SHUBHAM\naukri\naukri_sql_file.sql
